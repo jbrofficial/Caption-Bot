@@ -27,14 +27,14 @@ async def editing(bot, message):
              await bot.edit_message_caption(
                  chat_id = message.chat.id, 
                  message_id = message.message_id,
-                 caption = caption_text + "\n" + file_caption,
+                 caption = caption_text + "\n" "file_name" + file_caption,
                  parse_mode = "markdown"
              )
           elif caption_position == "bottom":
              await bot.edit_message_caption(
                  chat_id = message.chat.id, 
                  message_id = message.message_id,
-                 caption = file_caption + "\n" + caption_text,
+                 caption = file_caption + "\n" "file_name" + caption_text,
                  parse_mode = "markdown"
              )
           elif caption_position == "nil":
