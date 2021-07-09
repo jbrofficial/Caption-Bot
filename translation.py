@@ -40,7 +40,7 @@ __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
 __○ ᴄʀᴇᴀᴛᴏʀ :  @jbroffcial__
  
-**[© JBR](https://t.me/jbrofficial)**
+**[© JBR OFFICIAL](https://t.me/jbrofficial)**
 """
 
       MARKDOWN_TEXT = """
