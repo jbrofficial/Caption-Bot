@@ -4,7 +4,7 @@ class Translation(object):
       START_TEXT = """
 🍃 **ʜᴀɪ** __{}__ , 
 
-__I Am Auto CaptionBot Just Add In Channel and See Magic__
+__I Am CaptionBot Just Add In Channel and See Magic__
 
 **ɪ ᴄᴀɴ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀᴅᴅ ᴘʀᴇ-sᴇᴛᴛᴇᴅ ᴄᴀᴘᴛɪᴏɴ ᴛᴏ ᴛʜᴇ ғɪʟᴇs ɪɴ ᴄʜᴀɴɴᴇʟs**
 
@@ -33,14 +33,14 @@ __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇ
       ABOUT_TEXT = """
 📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
 
-__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/Avishkarpatil)__
+__○ ᴍʏ ɴᴀᴍᴇ : [Jbrbot](https://t.me/crazyrocks)__
 __○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ __
 __○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ __
 __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
-__○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
+__○ ᴄʀᴇᴀᴛᴏʀ :  @jbroffcial__
  
-**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Avishkarpatil)**
+**[© JBR](https://t.me/jbrofficial)**
 """
 
       MARKDOWN_TEXT = """
@@ -55,11 +55,11 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 🔸 <code>`Avishkar`</code>   
 
 👉 <b>Hyperlink text</b>
-🔹 <code>[hyperlink_text](https://avipatilweb.me)</code> 
+🔹 <code>[hyperlink_text](https://jbrcreation.me)</code> 
 
 〰〰〰〰〰〰〰〰〰〰
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/jbrofficial">© JBR Owner</a></b>
 """
 
 # Bot status display
@@ -72,7 +72,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/jbrofficial">© JBR Owneʀ</a></b>
 """
 
 
@@ -81,7 +81,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 ○ <b> I Am Available Open Source on Github 
       Click Below Link And Deploy Me Now </b>
 
-○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/avipatilpro/Caption-Bot">On Heroku</a></b>    
+○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/jbrofficial/Caption-Bot">On Heroku</a></b>    
 
-○ <i>SOURCE</i> : <b><a href="https://github.com/avipatilpro/Caption-Bot">Caption Bot</a></b>  
+○ <i>SOURCE</i> : <b><a href="https://github.com/Jbrofficial/Caption-Bot">Caption Bot</a></b>  
 """
