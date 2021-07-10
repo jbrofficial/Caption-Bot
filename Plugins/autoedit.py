@@ -19,7 +19,7 @@ caption_text = Config.CAPTION_TEXT
 async def editing(bot, message):
       try:
           if ( message.document or message.video or message.audio ):
-             file_caption = f"{file_name} f"**{message.caption}**"
+             file_caption = f"**{message.caption}**"
       except:
           pass
       try:
