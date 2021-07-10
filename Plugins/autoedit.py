@@ -19,7 +19,7 @@ caption_text = Config.CAPTION_TEXT
 async def editing(bot, message):
       try:
           if ( message.document or message.video or message.audio ):
-             file_caption = f"**{message.caption}**"
+             file_caption = f"{file_name} f"**{message.caption}**"
       except:
           pass
       try:
@@ -27,14 +27,14 @@ async def editing(bot, message):
              await bot.edit_message_caption(
                  chat_id = message.chat.id, 
                  message_id = message.message_id,
-                 caption = caption_text + "\n" "file_name" + file_caption,
+                 caption = caption_text + "\n" "{file_name}" + file_caption,
                  parse_mode = "markdown"
              )
           elif caption_position == "bottom":
              await bot.edit_message_caption(
                  chat_id = message.chat.id, 
                  message_id = message.message_id,
-                 caption = file_caption + "\n" "file_name" + caption_text,
+                 caption = file_caption + "\n" "f"{file_name} + caption_text,
                  parse_mode = "markdown"
              )
           elif caption_position == "nil":
